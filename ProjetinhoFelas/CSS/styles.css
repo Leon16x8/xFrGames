@@ -1,0 +1,15 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Lexend', sans-serif;
+    padding: 0;
+    text-align: center;
+}
+
+.game {
+    margin-bottom: 30px;
+}
+
+

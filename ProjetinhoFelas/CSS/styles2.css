@@ -1,0 +1,25 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+    background-position: center;
+    background-image: linear-gradient(to bottom, rgb(36, 101, 165), rgb(0, 255, 255));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh; /* Define a altura do corpo como 100% da altura da viewport */
+    margin: 0; /* Remove as margens padrão do corpo para garantir que o background cubra completamente */
+}
+
+#box-login{
+    padding: 10%;
+}
+
+.game {
+    margin-bottom: 30px;
+}
+
+
